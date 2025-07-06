@@ -8,6 +8,6 @@ https://invitag-health.qcri.org/
 
 Description/Documentation/Demo coming soon...
 
-[Video demo](https://github.com/michaelaupetit/invitag/blob/main/INVITAG_DEMO_compressed.mp4)
+[Video Demo] (https://youtu.be/TNmzBZqlP_8) 
 
 [Short description](https://github.com/michaelaupetit/invitag/blob/main/short_description_2025.pdf)
