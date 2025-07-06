@@ -10,4 +10,4 @@ Description/Documentation/Demo coming soon...
 
 [Video Demo] (https://youtu.be/TNmzBZqlP_8) 
 
-[Short description](https://github.com/michaelaupetit/invitag/blob/main/short_description_2025.pdf)
+[Short description](https://github.com/michaelaupetit/invitag/blob/main/short_description_2025_.pdf)
