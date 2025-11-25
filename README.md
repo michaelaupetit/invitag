@@ -6,7 +6,8 @@ You can access the prototype online:
 https://invitag.qcri.org/
 [](https://invitag.qcri.org/)
 
-<a href="[http://example.com/](https://invitag.qcri.org/)" target="_blank">[](https://invitag.qcri.org/)</a>
+<a href="https://invitag.qcri.org/" target="_blank">[](https://invitag.qcri.org/)</a>
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 Description/Documentation/Demo coming soon...
 
