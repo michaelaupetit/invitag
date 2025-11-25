@@ -3,11 +3,7 @@ Interactive grouping of image data for data science
 
 You can access the prototype online:
 
-https://invitag.qcri.org/
-[](https://invitag.qcri.org/)
-
-<a href="https://invitag.qcri.org/" target="_blank">[](https://invitag.qcri.org/)</a>
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://invitag.qcri.org/" target="_blank">https://invitag.qcri.org/</a>
 
 Description/Documentation/Demo coming soon...
 
