@@ -54,7 +54,7 @@ Copyright 2026 QCRI - Contact us for licensing and commercial use
 
 ## Acknowledgments
 
-This project would not have taken place without the support from [Dr. Ahmed Elmagarmid](https://www.hbku.edu.qa/en/staff/ahmed-elmagarmid) (QCRI Executive Director),
+This project would not have taken place without the support from [Dr. Ahmed Elmagarmid](https://www.hbku.edu.qa/en/staff/ahmed-elmagarmid) ([QCRI](https://www.hbku.edu.qa/en/qcri) Executive Director),
 and [Dr. Ingmar Weber](https://ingmarweber.de/) (Former RD of the QCRI Social Computing group), the impulse of [Dr. Luis Fernandez-Luque](https://www.linkedin.com/in/luisfernandezluque/) (Adhera Health),
 and the early collaboration with [Prof. Shahrad Taheri](https://www.linkedin.com/in/shahradtaheri/) and [Prof. Odette Chagoury](https://www.linkedin.com/in/odettechagoury/) (Weill Cornell Medicine-Qatar)
 
@@ -63,5 +63,5 @@ and the early collaboration with [Prof. Shahrad Taheri](https://www.linkedin.com
 ### Research Collaborations
 [Prof. Dena Al-Thani](https://www.linkedin.com/in/dr-dena-althani/) (CSE, HBKU), [Prof. Abdelkader Baggag](https://www.linkedin.com/in/abdelkader-baggag-94a08664/) (QCRI, HBKU)
 
-We use QCRI's METRIC developed by [Eng. Soon-gyo Jung](https://www.linkedin.com/in/soongyo/) to monitor interactions and improve InViTAG.
+We use QCRI's [METRIC](https://metric.qcri.org/) developed by [Eng. Soon-gyo Jung](https://www.linkedin.com/in/soongyo/) to monitor interactions and improve InViTAG.
 
