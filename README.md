@@ -22,7 +22,7 @@ You can use it with natural images alone, images with metadata, or tabular and g
 
 InViTAG AI-assistance never takes the grouping decision for you. You see, you decide.
 
-Try it out here: <a href="https://invitag.qcri.org/" target="_blank">https://invitag.qcri.org/</a>
+Try it out here: <a href="https://invitag.qcri.org/" target="_blank">https://invitag.qcri.org/</a> (CTRL+Click to open in a new tab)
 
 ## Description
 
