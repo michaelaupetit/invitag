@@ -8,7 +8,7 @@ You can access the prototype online:
 Description/Documentation/Demo coming soon...
 
 [Video Demo](https://youtu.be/TNmzBZqlP_8) 
-<a href="[https://invitag.qcri.org/](https://youtu.be/TNmzBZqlP_8)" target="_blank">Video Demo</a>
+<a href="https://youtu.be/TNmzBZqlP_8" target="_blank">Video Demo</a>
 
 [2-page usage scenario](https://github.com/michaelaupetit/invitag/blob/main/REVISED_VAHC_2025_Short_demo_paper_.pdf)
 
