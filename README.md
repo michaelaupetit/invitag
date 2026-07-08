@@ -50,6 +50,8 @@ Active learning for scalable arrangement and grouping of data - [US2023376164](h
 
 Interactive visual data categorization systems and methods - [US11222453](https://uspto.report/patent/grant/11,222,453)  
 
+Copyright 2026 QCRI - Contact us for licensing and commercial use
+
 ## Acknowledgments
 
 This project would not have taken place without the support from [Dr. Ahmed Elmagarmid](https://www.hbku.edu.qa/en/staff/ahmed-elmagarmid) (QCRI Executive Director),
