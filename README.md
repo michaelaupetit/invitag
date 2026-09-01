@@ -32,7 +32,7 @@ Try it out here: <a href="https://invitag.qcri.org/" target="_blank">https://inv
 
 [Video Demo](https://youtu.be/TNmzBZqlP_8) 
 
-[2-page usage scenario](https://github.com/michaelaupetit/invitag/main/REVISED_VAHC_2025_Short_demo_paper_.pdf)
+[2-page usage scenario](https://githubusercontent.com/michaelaupetit/invitag/main/REVISED_VAHC_2025_Short_demo_paper_.pdf)
 
 (Task-based explainers coming soon...)
 
