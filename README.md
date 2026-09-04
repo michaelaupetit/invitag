@@ -28,7 +28,7 @@ Try it out here: <a href="https://invitag.qcri.org/" target="_blank">https://inv
 
 [1-min elevator pitch](https://github.com/michaelaupetit/invitag/blob/main/INVITAG_Pitch.pdf)  
 
-[3-min slides with data format](https://github.com/qcri/invitag/blob/main/QEERI_Invitag_DEMO_talk.pdf)
+[3-min slides with data format](https://github.com/michaelaupetit/invitag/blob/main/QEERI_Invitag_DEMO_talk.pdf)
 
 [Video Demo](https://youtu.be/TNmzBZqlP_8) 
 
