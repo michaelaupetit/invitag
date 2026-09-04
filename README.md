@@ -28,7 +28,7 @@ InViTAG AI-assistance never takes the grouping decision for you. You see, you de
 
 ## Description
 
-[1-min elevator pitch](https://github.com/michaelaupetit/invitag/blob/main/INVITAG_Pitch.pdf)  
+[1-min elevator pitch](https://github.com/michaelaupetit/invitag/blob/main/INVITAG_Pitch_contact.pdf)  
 
 [3-min slides with data format](https://github.com/michaelaupetit/invitag/blob/main/QEERI_Invitag_DEMO_talk.pdf)
 
