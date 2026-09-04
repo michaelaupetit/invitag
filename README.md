@@ -8,6 +8,10 @@ With InViTAG, you can visualize, analyze, and group 100s images based on pixels 
 
 You can use it with natural images alone, images with metadata, or tabular and graphical representations of data.
 
+## Try it out!
+
+<a href="https://invitag.qcri.org/" target="_blank">https://invitag.qcri.org/</a> (CTRL+Click to open in a new tab)
+
 ## Features
 
 - Load images and data from scratch or a previous grouping session
@@ -21,8 +25,6 @@ You can use it with natural images alone, images with metadata, or tabular and g
 - Name and save all or individual groups for hierarchical grouping
 
 InViTAG AI-assistance never takes the grouping decision for you. You see, you decide.
-
-Try it out here: <a href="https://invitag.qcri.org/" target="_blank">https://invitag.qcri.org/</a> (CTRL+Click to open in a new tab)
 
 ## Description
 
